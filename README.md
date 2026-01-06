@@ -40,5 +40,5 @@ Model
   - Minimum Temperature
 
 Frontend
-- Streamlit
+- Streamlit for development and deployment
 
