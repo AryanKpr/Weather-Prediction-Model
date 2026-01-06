@@ -40,5 +40,5 @@ Model
   - Minimum Temperature
 
 Frontend
-- Streamlit for development and deployment
+- The application uses Streamlit for frontend development and deployment. Streamlit enables an interactive web interface where users can input weather features and receive predictions from the model.
 
