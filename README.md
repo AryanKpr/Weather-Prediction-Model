@@ -17,11 +17,11 @@ The goal of this project is to:
 The backend model is trained using scikit-learn, and the frontend is built using Streamlit.
 
 Features
-- 📊 Predicts temperature using historical weather parameters
-- 🧮 Ridge Regression model to handle multicollinearity
-- 🌐 Interactive web UI built with Streamlit
-- 📁 Model persistence using Joblib
-- ⚡ Fast and lightweight deployment
+- Predicts temperature using historical weather parameters
+- Ridge Regression model to handle multicollinearity
+- Interactive web UI built with Streamlit
+- Model persistence using Joblib
+- Fast and lightweight deployment
 
 Tech Stack
 Machine Learning
