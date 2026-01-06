@@ -4,6 +4,8 @@ Weather Prediction Model (Streamlit App)
 This project is a machine learning–based weather prediction system with an interactive Streamlit frontend.  
 It predicts future temperature values using historical weather data and regression techniques.
 
+Live app: https://ak-weather-prediciton.streamlit.app/
+
 Demo Screenshot:
 <img width="2088" height="1476" alt="image" src="https://github.com/user-attachments/assets/7a0b264b-c6b8-46df-8cb9-f52599ca318a" />
 
